@@ -20,6 +20,10 @@ O sistema gerencia informações sobre clientes, veículos, equipes de mecânico
 - Equipes são compostas por mecânicos (N:N).
 - Ordens de serviço incluem serviços e peças (N:N).
 
+## Estrutura do Esquema de Banco de Dados
+![EER - OR - OFICINA MECÂNICA](https://github.com/user-attachments/assets/b04dadeb-c351-45a2-a8cc-036e1736c36a)
+
+
 ## Tecnologias
 - Linguagem SQL
 - Ferramenta de modelagem: MySQL Workbench
